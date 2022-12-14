@@ -1,4 +1,4 @@
-# Hello, I'm Mark. I make stuff and things.
+# Hello, I'm Mark.
 ## My interests include...
 - Biology & Health Sciences
 - Data Analytics
