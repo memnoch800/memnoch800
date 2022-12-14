@@ -13,4 +13,4 @@
 ## Misc...
 - I am currently a full time student, so I may take a while to get back.
 - I try to contribute as frequently as possible, but coding is still merely a hobby for me
-
+- You can find me on Discord at entropymissed#1055 and linkedin at https://www.linkedin.com/in/MarkLipowsky/
